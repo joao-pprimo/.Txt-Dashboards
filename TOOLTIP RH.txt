@@ -1,0 +1,26 @@
+TOOLTIP RH
+
+Tooltip Head Count - 
+
+Mostrar Estado Civil Faixa Etária e Contratados.
+Mostrar identificação racial dos cargos.
+
+Tooltip Ind
+
+Mostrar os tipos de deficiência 
+
+Tooltip Turn - 
+
+Mostrar demitidos e admitidos por meses
+
+Tooltip Demissão
+
+Motivos mostrar o que é passivo e o que ativo e espontaneo. 
+
+Tooltip LF
+
+Mostrar a Esolaridade dos cargos de LF 
+
+Tooltip 50 MAIS
+
+Mostrar a escolaridade dos cargos que essa faixa etária ocupa
