@@ -1,0 +1,13 @@
+	*KPI COLABORADORES DESCRIÇÃO*
+
+1- Colaboradores/ Head Count:
+
+01.Efetivo Total / Contratações / Demissão / Afastado / % + Total Masculino / % + Total Feminino - OK
+02. Admissão x Demissão - OK
+03. Quantidade Colaboradores Cargos - OK
+04. Quantidade Colaboradores Faixa Etária - OK
+05. Quantidade Colaboradores Raça - Ok
+06. Quantidade Colaboradores Tempo de Retenção - OK
+07. Quantidade Colaboradores Escolaridade - OK
+
+Filtro Geral: Obra e Data

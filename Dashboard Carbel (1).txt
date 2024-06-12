@@ -1,0 +1,48 @@
+Dashboard Tableau com resultados de pesquisa de clima. 
+
+Empresa x Setor 
+
+Empresa x Média de respostas das perguntas.
+
+Setor x Média de respostas das perguntas. 
+
+RESUMO DAS PERGUNTAS 
+
+Resumo das Perguntas da Pesquisa de Clima Organizacional
+
+- Perguntas sobre Comunicação e Gestão
+
+.Posso fazer qualquer pergunta razoável aos gestores e obter respostas diretas?
+.Os gestores me mantêm informado sobre assuntos importantes e sobre mudanças na organização?
+.Os gestores têm uma visão clara de para onde estamos indo e como fazer para chegar lá?
+.Os gestores sabem coordenar pessoas e distribuir tarefas adequadamente?
+.Os gestores agradecem o bom trabalho e o esforço extra?
+
+- Perguntas sobre Desenvolvimento e Bem-Estar
+
+.A organização me oferece treinamento ou outras formas de desenvolvimento para o meu crescimento profissional?
+.As pessoas são encorajadas a equilibrar sua vida profissional e pessoal?
+.Este é um lugar psicológica e emocionalmente saudável para trabalhar?
+.Todos aqui têm a oportunidade de receber um reconhecimento especial?
+.Eu sou considerado importante independentemente de minha posição na organização?
+
+- Perguntas sobre Justiça e Reconhecimento
+
+.Os gestores evitam o favoritismo?
+.As promoções são dadas às pessoas que realmente mais merecem?
+.Sinto que eu faço a diferença aqui?
+.As pessoas aqui estão dispostas a dar mais de si para concluir um trabalho?
+
+- Perguntas sobre Cultura e Ambiente de Trabalho
+
+.Pretendo trabalhar aqui por muito tempo?
+.Com certeza, eu recomendaria minha organização para amigos e família como um excelente lugar para trabalhar?
+.Nós sempre comemoramos eventos especiais?
+.Aqui as pessoas se importam umas com as outras?
+.Pode-se contar com a colaboração das pessoas por aqui?
+.Quando se entra nesta organização, fazem você se sentir bem-vindo.
+.Levando-se tudo em conta, eu diria que este é um excelente lugar para trabalhar?
+
+- Pergunta sobre o Carbel Auto Group
+
+Sua empresa faz parte de um grupo muito maior, o Carbel Auto Group. E sabemos que estar presente nesse ecossistema permite mudanças, transferências e progressão de carreira não somente na sua unidade, mas em outras também. Isso é um fator positivo para você? ​

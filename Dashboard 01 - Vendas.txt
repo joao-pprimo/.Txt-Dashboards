@@ -1,0 +1,3 @@
+Dashboard 01 - Vendas
+
+Primeiro Dashboard realizado por quando começei a estudar o Power BI, em meados de 2023.

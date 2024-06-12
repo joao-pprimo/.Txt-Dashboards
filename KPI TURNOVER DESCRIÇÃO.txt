@@ -1,0 +1,25 @@
+	*KPI TURNOVER DESCRIÇÃO*
+
+4. TurnOver 
+
+01. TurnOver Passivo, ativo, geral, contratações, demitidos - OK
+02. Histórico Mensal - OK
+03. Turnover Diário - Mensal
+03. Cargos x Setor - 
+04. Indicadores x Raça - OK
+05. Indicadores x Genero - OK
+07. Indicadores x Faixa Etária - OK
+
+
+Ver de fazer na tela de TurnOver Ativo, Passivo, Espontaneo
+
+TurnOver Ativo = colaborador gera o afastamento
+	ID = 18, 13, 19, 20, 9
+TurnOver Passivo = Empresa
+	ID = 12, 15, 14, 16, 10
+TurnOver Espontaneo = morte, aposentadoria
+	ID: 17
+TurnOver Transferência = unidade
+
+Filtro Geral: Obra e Data
+
